@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>EyeVisual</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>eye_visual</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.969694859138-hc921si36fp8tjeakf48nma8lpick8q5</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Required due to usage of third-party plugin to retrieve your device's name.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Required due to usage of third-party plugin to retrieve your device's name.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera permission is required to take photos.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Required due to usage of third-party plugin to retrieve your device's name.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Your location is used to generate routes when tracking an elder.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone permission is required to take and select photos. (???)</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Required due to usage of third-party plugin to retrieve your device's name.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Photo library permission is required to select and save photos.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Required due to usage of third-party plugin to retrieve your device's name.</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

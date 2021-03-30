@@ -1,0 +1,239 @@
+{
+  "project_info": {
+    "project_number": "969694859138",
+    "firebase_url": "https://ntu-fyp-49c8c.firebaseio.com",
+    "project_id": "ntu-fyp-49c8c",
+    "storage_bucket": "ntu-fyp-49c8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969694859138:android:51a29e60e85a88bbcc899b",
+        "android_client_info": {
+          "package_name": "com.clementine.eye_visual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969694859138-aq1ie9k6hoo84v172fhj13n7qajvabr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clementine.eye_visual",
+            "certificate_hash": "72eab6d578cb42530eddc6f688576cb74c7ebfd1"
+          }
+        },
+        {
+          "client_id": "969694859138-85qels0su46c5et55h9e06ohr9u5ombj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq91MKGqeoT_6dGoShZlD8wijU56p4_rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969694859138-e3re4piusvov86b15lanmtmkucae0svs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969694859138-1e8303frc6bmq6s780lcd0bq8lt2j47b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eyevisual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969694859138:android:1b734313870804facc899b",
+        "android_client_info": {
+          "package_name": "com.eyevisual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969694859138-0pq5cg602jgbobasslr7m11r34g3reai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eyevisual",
+            "certificate_hash": "d8c9c7a679e93638c7fc980c29ac59db72052101"
+          }
+        },
+        {
+          "client_id": "969694859138-85qels0su46c5et55h9e06ohr9u5ombj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq91MKGqeoT_6dGoShZlD8wijU56p4_rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969694859138-e3re4piusvov86b15lanmtmkucae0svs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969694859138-1e8303frc6bmq6s780lcd0bq8lt2j47b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eyevisual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969694859138:android:043bff1e48aa0c11cc899b",
+        "android_client_info": {
+          "package_name": "io.wjayteo.ntu.fyp.singtracex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969694859138-mgbvikgbdrmn7v00qakphpue838nqcu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.wjayteo.ntu.fyp.singtracex",
+            "certificate_hash": "d8c9c7a679e93638c7fc980c29ac59db72052101"
+          }
+        },
+        {
+          "client_id": "969694859138-85qels0su46c5et55h9e06ohr9u5ombj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq91MKGqeoT_6dGoShZlD8wijU56p4_rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969694859138-e3re4piusvov86b15lanmtmkucae0svs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969694859138-1e8303frc6bmq6s780lcd0bq8lt2j47b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eyevisual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969694859138:android:f6608922cf7a4c46cc899b",
+        "android_client_info": {
+          "package_name": "io.wjayteo.ntu.singtrace.singtrace_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969694859138-km7u49ipdg0hql1steul0ths906s5rpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.wjayteo.ntu.singtrace.singtrace_flutter",
+            "certificate_hash": "d8c9c7a679e93638c7fc980c29ac59db72052101"
+          }
+        },
+        {
+          "client_id": "969694859138-85qels0su46c5et55h9e06ohr9u5ombj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq91MKGqeoT_6dGoShZlD8wijU56p4_rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969694859138-e3re4piusvov86b15lanmtmkucae0svs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969694859138-1e8303frc6bmq6s780lcd0bq8lt2j47b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eyevisual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969694859138:android:845751fe4d873795cc899b",
+        "android_client_info": {
+          "package_name": "wjayteo.ntu.fyp.singtrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969694859138-rppijhbmriboivfv7c58cpevlc24kt38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wjayteo.ntu.fyp.singtrace",
+            "certificate_hash": "d8c9c7a679e93638c7fc980c29ac59db72052101"
+          }
+        },
+        {
+          "client_id": "969694859138-dino9mi72vol81700kqt7ihne0e23hku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wjayteo.ntu.fyp.singtrace",
+            "certificate_hash": "c7a7546ce7d95d95197e683295111037a7a9ac11"
+          }
+        },
+        {
+          "client_id": "969694859138-85qels0su46c5et55h9e06ohr9u5ombj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq91MKGqeoT_6dGoShZlD8wijU56p4_rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969694859138-e3re4piusvov86b15lanmtmkucae0svs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969694859138-1e8303frc6bmq6s780lcd0bq8lt2j47b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eyevisual"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+name: eye_visual
+description: EyeVisual
+
+publish_to: 'none'
+version: 1.5.0
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  package_info: ^0.4.3
+  cupertino_list_tile: ^0.1.4
+  cupertino_icons: ^1.0.0
+  path_provider: ^1.6.18
+  path: ^1.7.0
+  camera: ^0.5.8+7
+  image_picker: ^0.6.7+11
+  gallery_saver: ^2.0.1
+  permission_handler: ^5.0.1+1
+  shared_preferences: ^0.5.12
+  firebase_core: ^0.5.0
+  firebase_auth: ^0.18.1+2
+  google_sign_in: ^4.5.4
+  cloud_firestore: ^0.14.1+3
+  firebase_storage: ^5.0.0-dev.3
+  app_settings: ^4.0.4
+  flutter_tts: ^1.2.7
+  firebase_ml_vision: ^0.9.7
+  flutter_image_compress: ^0.7.0
+  translator: ^0.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/

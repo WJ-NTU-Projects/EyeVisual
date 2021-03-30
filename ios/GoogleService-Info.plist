@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>969694859138-hc921si36fp8tjeakf48nma8lpick8q5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.969694859138-hc921si36fp8tjeakf48nma8lpick8q5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>969694859138-aq1ie9k6hoo84v172fhj13n7qajvabr3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAdGzXuymkced_gGTT3eMAyY6nXIYH211w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>969694859138</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.clementine.eyeVisual</string>
+	<key>PROJECT_ID</key>
+	<string>ntu-fyp-49c8c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ntu-fyp-49c8c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:969694859138:ios:bf1e7a830d152e8ccc899b</string>
+	<key>DATABASE_URL</key>
+	<string>https://ntu-fyp-49c8c.firebaseio.com</string>
+</dict>
+</plist>
